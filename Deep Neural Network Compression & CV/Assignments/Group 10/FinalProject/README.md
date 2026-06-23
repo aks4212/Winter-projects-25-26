@@ -98,9 +98,9 @@ Reloaded Model Accuracy: 98.25%
 
 Model Type	            File Size
 Original (.pth)	        1.6701 MB
-Compressed (.npz)	      1.1453 MB
+Compressed (.npz)	      0.167 MB
 
-# Compression Achieved: 1.46× reduction
+# Compression Achieved: 10× reduction
 
 # Resource Usage
 GPU Memory Allocated: 26.83 MB
